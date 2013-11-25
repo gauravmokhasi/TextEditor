@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<!-- write head here -->
+
+</head>
+
+<body>
+
+<!-- write the body here -->
+
+</body>
+
+
+</html>

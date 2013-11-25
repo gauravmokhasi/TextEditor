@@ -1,0 +1,32 @@
+## Trie to search for a word in dictionary
+
+class Trie_node(object):
+    "Trie node structure"
+    def __init__(self):
+        "initialise node"
+        self.end=False
+        self.child=dict()
+
+    def insert(self,word):
+        "Inserts word into the Trie and branches out when required"
+        if lord):
+        "Search for the given word in Trie . Returns true if Present"
+        if len(word)==0:
+            if self.end==False:
+                return False
+            return True
+        try:
+    words=[]
+    for dew in range(qq):
+        words.append(raw_input())
+    for word in words:
+        root.insert(word.strip())
+    print 'enter no of words to search'
+    qq=input()
+    for dew in xrange(qq):
+        query=raw_input("Enter word to search for : ").strip()
+        if root.search(query):
+            print "Word Present"
+        else:
+            print "Word Not Present"
+    
